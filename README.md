@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I’m currently a undergraduate in Wuhan University, China(applying for graduate study)
+- 🎓 I’m currently an undergraduate in Wuhan University, China(applying for graduate study)
 - 🌱 I’m currently learning Natural Language Processing.
 - 👯 I’m looking to collaborate on applying NLP into research of psychology/cognition. 
 - 🤔 I’m practicing for improving my English skills and coding skills.
